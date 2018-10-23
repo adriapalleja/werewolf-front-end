@@ -4,7 +4,7 @@
 
 Werewolf Game is a real-time multiplayer game for 6 or more players based on the well-known social party game [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)), commonly also called Mafia.
 
-For the back-end repo, please visit: [Werewolf - back-end](https://github.com/isadorabk/werewolf-back-end)
+For the back-end repo, please visit: [Werewolf - back-end](https://github.com/adriapalleja/werewolf-back-end)
 
 
 
@@ -58,8 +58,8 @@ For the back-end repo, please visit: [Werewolf - back-end](https://github.com/is
 
 ## Author
 
-- Isadora Bassetto Kwiatkowski - [GitHub](https://github.com/isadorabk) - [LinkedIn](https://www.linkedin.com/in/isadora-bassetto-kwiatkowski/)
-
+- Adrià Pallejà - [GitHub](https://github.com/adriapalleja)
+- Olga Chinina - [GitHub](https://github.com/chinins)
 
 
 
